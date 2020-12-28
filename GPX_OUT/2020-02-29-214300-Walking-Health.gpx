@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="HealthFit" version="1.0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+http://www.topografix.com/GPX/11.xsd"
+xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+	<trk>
+		<type>walking</type>
+		<trkseg>
+			<trkpt>
+				<time>2020-02-29T20:43:00.000Z</time>
+			</trkpt>
+			<trkpt>
+				<time>2020-02-29T20:44:00.000Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
